@@ -1,5 +1,7 @@
 # Simple Calculator
 
+![Screenshot_2](https://github.com/YunusEmreGungorDev/Simple_Calculator/assets/141125700/d064d8e7-93fc-4510-bacc-6d5376ba7d1f)
+
 ## HTML
 
 ### CALCULATOR
